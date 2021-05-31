@@ -144,3 +144,12 @@ body {
   border-top-color: black;
   border-top-style: solid;
     border-bottom-style: solid;
+}
+
+
+.bashir-items{
+  display: flex;
+  justify-content: space-between;
+ 
+  
+}
